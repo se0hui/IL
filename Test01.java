@@ -3,11 +3,11 @@ package backend;
 public class Test01{
 
     // 필드
-    String name; // 이름
-    int age; // 나이
-    int korean_score; // 국어 성적
-    int math_score; // 수학 성적
-    int english_score; // 영어 성적
+    String name;
+    int age;
+    int korean_score;
+    int math_score;
+    int english_score;
     
     // 생성자
     public Test01(String name, int age, int korean_score, int math_score, int english_score){
